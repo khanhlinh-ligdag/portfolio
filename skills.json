@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Quản lý dự án",
+        "icon": "https://img.icons8.com/color/48/000000/project-management.png"
+    },
+    {
+        "name": "Giao tiếp & Xây dựng mối quan hệ",
+        "icon": "https://img.icons8.com/color/48/000000/conference-call.png"
+    },
+    {
+        "name": "Nắm bắt kiến thức sản phẩm",
+        "icon": "https://img.icons8.com/color/48/000000/idea.png"
+    },
+    {
+        "name": "Kỹ năng thuyết phục",
+        "icon": "https://img.icons8.com/color/48/000000/megaphone.png"
+    },
+    {
+        "name": "Quản lý thời gian",
+        "icon": "https://img.icons8.com/color/48/000000/alarm-clock.png"
+    },
+    {
+        "name": "Đàm phán",
+        "icon": "https://img.icons8.com/color/48/000000/handshake.png"
+    },
+    {
+        "name": "Tin học văn phòng",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-office2019.png"
+    },
+    {
+        "name": "Microsoft Word",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-word.png"
+    },
+    {
+        "name": "Microsoft Excel",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel.png"
+    },
+    {
+        "name": "Microsoft PowerPoint",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint.png"
+    }
+]
