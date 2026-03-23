@@ -536,6 +536,12 @@ header .navbar ul li a:hover {
   margin-top: 1rem;
 }
 
+.skills .container .bar .info img {
+  height: 4rem;
+  width: auto;
+  object-fit: contain;
+}
+
 .skills .container .bar .info i {
   font-size: 4rem;
 }
