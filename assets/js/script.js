@@ -63,7 +63,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Quay lại Portfolio nhé!";
             $("#favicon").attr("href", "assets/images/favhand.png");
         }
     });
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Sales Professional", "Customer Care Specialist", "Business Administration", "Quản trị Kinh doanh PSU"],
+    strings: ["Chuyên viên Bán hàng", "Chăm sóc Khách hàng", "Quản trị Kinh doanh", "Sinh viên PSU"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
