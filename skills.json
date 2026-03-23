@@ -25,18 +25,18 @@
     },
     {
         "name": "Tin học văn phòng",
-        "icon": "https://img.icons8.com/color/48/000000/microsoft-office2019.png"
+        "icon": "assets/images/skills/tinhocvanphong.png"
     },
     {
         "name": "Microsoft Word",
-        "icon": "https://img.icons8.com/color/48/000000/microsoft-word.png"
+        "icon": "assets/images/skills/word.png"
     },
     {
         "name": "Microsoft Excel",
-        "icon": "https://img.icons8.com/color/48/000000/microsoft-excel.png"
+        "icon": "assets/images/skills/excel.png"
     },
     {
         "name": "Microsoft PowerPoint",
-        "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint.png"
+        "icon": "assets/images/skills/powerpoint.png"
     }
 ]
