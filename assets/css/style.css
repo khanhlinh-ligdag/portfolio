@@ -1019,7 +1019,6 @@ form .button-area {
 .contact .content .field input,
 .contact .content .message textarea {
   width: 100%;
-  padding: 1.5rem;
   font-size: 1.6rem;
   background: var(--bg-color);
   border: 0.1rem solid var(--light-gray);
